@@ -1,2 +1,2 @@
-# E-Commerce-Sales-Excel-Project-
-Analyze e-commerce sales using Excel to find key trends. Clean raw data, build pivot tables, and track revenue, top products, and customer habits. Design an interactive dashboard with charts to help businesses make smart, data-driven choices.
+E-Commerce-Sales-Excel-Project-
+Developed an interactive E-Commerce Sales Dashboard in Excel to analyze sales, profit, quantity, monthly and regional trends. Used Pivot Tables, Charts, Slicers, SUMIFS, IF formulas, Conditional Formatting, Combo Box and Histogram for data-driven insights.
